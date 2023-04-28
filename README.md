@@ -4,7 +4,7 @@ The Country Comparison App is a web application that allows users to input a cou
 
 ## See It In Action
 
-[](https://github.com/NicholasStambaugh/Country-Comparison/blob/main/cntrgif.gif)
+![](https://github.com/NicholasStambaugh/Country-Comparison/blob/main/cntrgif.gif)
 
 ## Usage
 
