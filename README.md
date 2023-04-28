@@ -2,6 +2,10 @@
 
 The Country Comparison App is a web application that allows users to input a country name and retrieve information about the country, as well as compare it to other countries.
 
+## See It In Action
+
+[](https://github.com/NicholasStambaugh/Country-Comparison/blob/main/cntrgif.gif)
+
 ## Usage
 
 To use the app, simply open the index.html file in a web browser. The app will load and display the user interface, which includes a form for users to input a country name, buttons to submit or reset the form, and containers for displaying country information and a chart.
